@@ -1,3 +1,3 @@
-def count_words(str)
-  return str.length
-end
+# def count_words(str)
+#   return str.length
+# end
