@@ -24,5 +24,5 @@
 #       diary_entry = DiaryEntry.new("my_title", "one two three")
 #       expect{diary_entry.reading_time(0)}.to raise_error "Reading speed must be above zero"
 #     end
-#   end v
+#   end 
 # end
